@@ -1,0 +1,6 @@
+C:\Users\Win10\source\repos\InterfazCurso\InterfazCurso\bin\Debug\InterfazCurso.exe.config
+C:\Users\Win10\source\repos\InterfazCurso\InterfazCurso\bin\Debug\InterfazCurso.exe
+C:\Users\Win10\source\repos\InterfazCurso\InterfazCurso\bin\Debug\InterfazCurso.pdb
+C:\Users\Win10\source\repos\InterfazCurso\InterfazCurso\obj\Debug\InterfazCurso.csprojAssemblyReference.cache
+C:\Users\Win10\source\repos\InterfazCurso\InterfazCurso\obj\Debug\InterfazCurso.exe
+C:\Users\Win10\source\repos\InterfazCurso\InterfazCurso\obj\Debug\InterfazCurso.pdb

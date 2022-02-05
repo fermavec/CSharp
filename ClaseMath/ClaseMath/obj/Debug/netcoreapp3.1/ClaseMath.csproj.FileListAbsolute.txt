@@ -1,0 +1,13 @@
+C:\Users\fchav\OneDrive\Documentos\Fer Mavec\C#\ClaseMath\ClaseMath\bin\Debug\netcoreapp3.1\ClaseMath.exe
+C:\Users\fchav\OneDrive\Documentos\Fer Mavec\C#\ClaseMath\ClaseMath\bin\Debug\netcoreapp3.1\ClaseMath.deps.json
+C:\Users\fchav\OneDrive\Documentos\Fer Mavec\C#\ClaseMath\ClaseMath\bin\Debug\netcoreapp3.1\ClaseMath.runtimeconfig.json
+C:\Users\fchav\OneDrive\Documentos\Fer Mavec\C#\ClaseMath\ClaseMath\bin\Debug\netcoreapp3.1\ClaseMath.runtimeconfig.dev.json
+C:\Users\fchav\OneDrive\Documentos\Fer Mavec\C#\ClaseMath\ClaseMath\bin\Debug\netcoreapp3.1\ClaseMath.dll
+C:\Users\fchav\OneDrive\Documentos\Fer Mavec\C#\ClaseMath\ClaseMath\bin\Debug\netcoreapp3.1\ClaseMath.pdb
+C:\Users\fchav\OneDrive\Documentos\Fer Mavec\C#\ClaseMath\ClaseMath\obj\Debug\netcoreapp3.1\ClaseMath.csprojAssemblyReference.cache
+C:\Users\fchav\OneDrive\Documentos\Fer Mavec\C#\ClaseMath\ClaseMath\obj\Debug\netcoreapp3.1\ClaseMath.AssemblyInfoInputs.cache
+C:\Users\fchav\OneDrive\Documentos\Fer Mavec\C#\ClaseMath\ClaseMath\obj\Debug\netcoreapp3.1\ClaseMath.AssemblyInfo.cs
+C:\Users\fchav\OneDrive\Documentos\Fer Mavec\C#\ClaseMath\ClaseMath\obj\Debug\netcoreapp3.1\ClaseMath.csproj.CoreCompileInputs.cache
+C:\Users\fchav\OneDrive\Documentos\Fer Mavec\C#\ClaseMath\ClaseMath\obj\Debug\netcoreapp3.1\ClaseMath.dll
+C:\Users\fchav\OneDrive\Documentos\Fer Mavec\C#\ClaseMath\ClaseMath\obj\Debug\netcoreapp3.1\ClaseMath.pdb
+C:\Users\fchav\OneDrive\Documentos\Fer Mavec\C#\ClaseMath\ClaseMath\obj\Debug\netcoreapp3.1\ClaseMath.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\fchav\OneDrive\Documentos\Fer Mavec\C#\Structs\Structs\bin\Debug\netcoreapp3.1\Structs.exe
+C:\Users\fchav\OneDrive\Documentos\Fer Mavec\C#\Structs\Structs\bin\Debug\netcoreapp3.1\Structs.deps.json
+C:\Users\fchav\OneDrive\Documentos\Fer Mavec\C#\Structs\Structs\bin\Debug\netcoreapp3.1\Structs.runtimeconfig.json
+C:\Users\fchav\OneDrive\Documentos\Fer Mavec\C#\Structs\Structs\bin\Debug\netcoreapp3.1\Structs.runtimeconfig.dev.json
+C:\Users\fchav\OneDrive\Documentos\Fer Mavec\C#\Structs\Structs\bin\Debug\netcoreapp3.1\Structs.dll
+C:\Users\fchav\OneDrive\Documentos\Fer Mavec\C#\Structs\Structs\bin\Debug\netcoreapp3.1\Structs.pdb
+C:\Users\fchav\OneDrive\Documentos\Fer Mavec\C#\Structs\Structs\obj\Debug\netcoreapp3.1\Structs.csprojAssemblyReference.cache
+C:\Users\fchav\OneDrive\Documentos\Fer Mavec\C#\Structs\Structs\obj\Debug\netcoreapp3.1\Structs.AssemblyInfoInputs.cache
+C:\Users\fchav\OneDrive\Documentos\Fer Mavec\C#\Structs\Structs\obj\Debug\netcoreapp3.1\Structs.AssemblyInfo.cs
+C:\Users\fchav\OneDrive\Documentos\Fer Mavec\C#\Structs\Structs\obj\Debug\netcoreapp3.1\Structs.csproj.CoreCompileInputs.cache
+C:\Users\fchav\OneDrive\Documentos\Fer Mavec\C#\Structs\Structs\obj\Debug\netcoreapp3.1\Structs.dll
+C:\Users\fchav\OneDrive\Documentos\Fer Mavec\C#\Structs\Structs\obj\Debug\netcoreapp3.1\Structs.pdb
+C:\Users\fchav\OneDrive\Documentos\Fer Mavec\C#\Structs\Structs\obj\Debug\netcoreapp3.1\Structs.genruntimeconfig.cache

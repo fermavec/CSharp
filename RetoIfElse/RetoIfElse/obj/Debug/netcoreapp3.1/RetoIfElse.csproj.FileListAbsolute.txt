@@ -1,0 +1,13 @@
+C:\Users\fchav\OneDrive\Documentos\Fer Mavec\C#\RetoIfElse\RetoIfElse\obj\Debug\netcoreapp3.1\RetoIfElse.csprojAssemblyReference.cache
+C:\Users\fchav\OneDrive\Documentos\Fer Mavec\C#\RetoIfElse\RetoIfElse\obj\Debug\netcoreapp3.1\RetoIfElse.AssemblyInfoInputs.cache
+C:\Users\fchav\OneDrive\Documentos\Fer Mavec\C#\RetoIfElse\RetoIfElse\obj\Debug\netcoreapp3.1\RetoIfElse.AssemblyInfo.cs
+C:\Users\fchav\OneDrive\Documentos\Fer Mavec\C#\RetoIfElse\RetoIfElse\obj\Debug\netcoreapp3.1\RetoIfElse.csproj.CoreCompileInputs.cache
+C:\Users\fchav\OneDrive\Documentos\Fer Mavec\C#\RetoIfElse\RetoIfElse\bin\Debug\netcoreapp3.1\RetoIfElse.exe
+C:\Users\fchav\OneDrive\Documentos\Fer Mavec\C#\RetoIfElse\RetoIfElse\bin\Debug\netcoreapp3.1\RetoIfElse.deps.json
+C:\Users\fchav\OneDrive\Documentos\Fer Mavec\C#\RetoIfElse\RetoIfElse\bin\Debug\netcoreapp3.1\RetoIfElse.runtimeconfig.json
+C:\Users\fchav\OneDrive\Documentos\Fer Mavec\C#\RetoIfElse\RetoIfElse\bin\Debug\netcoreapp3.1\RetoIfElse.runtimeconfig.dev.json
+C:\Users\fchav\OneDrive\Documentos\Fer Mavec\C#\RetoIfElse\RetoIfElse\bin\Debug\netcoreapp3.1\RetoIfElse.dll
+C:\Users\fchav\OneDrive\Documentos\Fer Mavec\C#\RetoIfElse\RetoIfElse\bin\Debug\netcoreapp3.1\RetoIfElse.pdb
+C:\Users\fchav\OneDrive\Documentos\Fer Mavec\C#\RetoIfElse\RetoIfElse\obj\Debug\netcoreapp3.1\RetoIfElse.dll
+C:\Users\fchav\OneDrive\Documentos\Fer Mavec\C#\RetoIfElse\RetoIfElse\obj\Debug\netcoreapp3.1\RetoIfElse.pdb
+C:\Users\fchav\OneDrive\Documentos\Fer Mavec\C#\RetoIfElse\RetoIfElse\obj\Debug\netcoreapp3.1\RetoIfElse.genruntimeconfig.cache

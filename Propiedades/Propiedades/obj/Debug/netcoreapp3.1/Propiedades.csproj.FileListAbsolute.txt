@@ -1,0 +1,13 @@
+C:\Users\fchav\OneDrive\Documentos\Fer Mavec\C#\Propiedades\Propiedades\obj\Debug\netcoreapp3.1\Propiedades.csprojAssemblyReference.cache
+C:\Users\fchav\OneDrive\Documentos\Fer Mavec\C#\Propiedades\Propiedades\obj\Debug\netcoreapp3.1\Propiedades.AssemblyInfoInputs.cache
+C:\Users\fchav\OneDrive\Documentos\Fer Mavec\C#\Propiedades\Propiedades\obj\Debug\netcoreapp3.1\Propiedades.AssemblyInfo.cs
+C:\Users\fchav\OneDrive\Documentos\Fer Mavec\C#\Propiedades\Propiedades\obj\Debug\netcoreapp3.1\Propiedades.csproj.CoreCompileInputs.cache
+C:\Users\fchav\OneDrive\Documentos\Fer Mavec\C#\Propiedades\Propiedades\bin\Debug\netcoreapp3.1\Propiedades.exe
+C:\Users\fchav\OneDrive\Documentos\Fer Mavec\C#\Propiedades\Propiedades\bin\Debug\netcoreapp3.1\Propiedades.deps.json
+C:\Users\fchav\OneDrive\Documentos\Fer Mavec\C#\Propiedades\Propiedades\bin\Debug\netcoreapp3.1\Propiedades.runtimeconfig.json
+C:\Users\fchav\OneDrive\Documentos\Fer Mavec\C#\Propiedades\Propiedades\bin\Debug\netcoreapp3.1\Propiedades.runtimeconfig.dev.json
+C:\Users\fchav\OneDrive\Documentos\Fer Mavec\C#\Propiedades\Propiedades\bin\Debug\netcoreapp3.1\Propiedades.dll
+C:\Users\fchav\OneDrive\Documentos\Fer Mavec\C#\Propiedades\Propiedades\bin\Debug\netcoreapp3.1\Propiedades.pdb
+C:\Users\fchav\OneDrive\Documentos\Fer Mavec\C#\Propiedades\Propiedades\obj\Debug\netcoreapp3.1\Propiedades.dll
+C:\Users\fchav\OneDrive\Documentos\Fer Mavec\C#\Propiedades\Propiedades\obj\Debug\netcoreapp3.1\Propiedades.pdb
+C:\Users\fchav\OneDrive\Documentos\Fer Mavec\C#\Propiedades\Propiedades\obj\Debug\netcoreapp3.1\Propiedades.genruntimeconfig.cache

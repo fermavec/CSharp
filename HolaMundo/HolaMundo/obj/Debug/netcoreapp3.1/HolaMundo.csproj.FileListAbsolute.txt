@@ -1,0 +1,13 @@
+C:\Users\fchav\OneDrive\Documentos\Fer Mavec\C#\HolaMundo\HolaMundo\bin\Debug\netcoreapp3.1\HolaMundo.exe
+C:\Users\fchav\OneDrive\Documentos\Fer Mavec\C#\HolaMundo\HolaMundo\bin\Debug\netcoreapp3.1\HolaMundo.deps.json
+C:\Users\fchav\OneDrive\Documentos\Fer Mavec\C#\HolaMundo\HolaMundo\bin\Debug\netcoreapp3.1\HolaMundo.runtimeconfig.json
+C:\Users\fchav\OneDrive\Documentos\Fer Mavec\C#\HolaMundo\HolaMundo\bin\Debug\netcoreapp3.1\HolaMundo.runtimeconfig.dev.json
+C:\Users\fchav\OneDrive\Documentos\Fer Mavec\C#\HolaMundo\HolaMundo\bin\Debug\netcoreapp3.1\HolaMundo.dll
+C:\Users\fchav\OneDrive\Documentos\Fer Mavec\C#\HolaMundo\HolaMundo\bin\Debug\netcoreapp3.1\HolaMundo.pdb
+C:\Users\fchav\OneDrive\Documentos\Fer Mavec\C#\HolaMundo\HolaMundo\obj\Debug\netcoreapp3.1\HolaMundo.csprojAssemblyReference.cache
+C:\Users\fchav\OneDrive\Documentos\Fer Mavec\C#\HolaMundo\HolaMundo\obj\Debug\netcoreapp3.1\HolaMundo.AssemblyInfoInputs.cache
+C:\Users\fchav\OneDrive\Documentos\Fer Mavec\C#\HolaMundo\HolaMundo\obj\Debug\netcoreapp3.1\HolaMundo.AssemblyInfo.cs
+C:\Users\fchav\OneDrive\Documentos\Fer Mavec\C#\HolaMundo\HolaMundo\obj\Debug\netcoreapp3.1\HolaMundo.csproj.CoreCompileInputs.cache
+C:\Users\fchav\OneDrive\Documentos\Fer Mavec\C#\HolaMundo\HolaMundo\obj\Debug\netcoreapp3.1\HolaMundo.dll
+C:\Users\fchav\OneDrive\Documentos\Fer Mavec\C#\HolaMundo\HolaMundo\obj\Debug\netcoreapp3.1\HolaMundo.pdb
+C:\Users\fchav\OneDrive\Documentos\Fer Mavec\C#\HolaMundo\HolaMundo\obj\Debug\netcoreapp3.1\HolaMundo.genruntimeconfig.cache

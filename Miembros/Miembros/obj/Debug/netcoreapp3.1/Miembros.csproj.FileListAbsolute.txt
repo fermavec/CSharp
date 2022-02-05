@@ -1,0 +1,13 @@
+C:\Users\fchav\source\repos\Miembros\Miembros\obj\Debug\netcoreapp3.1\Miembros.csprojAssemblyReference.cache
+C:\Users\fchav\source\repos\Miembros\Miembros\obj\Debug\netcoreapp3.1\Miembros.AssemblyInfoInputs.cache
+C:\Users\fchav\source\repos\Miembros\Miembros\obj\Debug\netcoreapp3.1\Miembros.AssemblyInfo.cs
+C:\Users\fchav\source\repos\Miembros\Miembros\obj\Debug\netcoreapp3.1\Miembros.csproj.CoreCompileInputs.cache
+C:\Users\fchav\source\repos\Miembros\Miembros\bin\Debug\netcoreapp3.1\Miembros.exe
+C:\Users\fchav\source\repos\Miembros\Miembros\bin\Debug\netcoreapp3.1\Miembros.deps.json
+C:\Users\fchav\source\repos\Miembros\Miembros\bin\Debug\netcoreapp3.1\Miembros.runtimeconfig.json
+C:\Users\fchav\source\repos\Miembros\Miembros\bin\Debug\netcoreapp3.1\Miembros.runtimeconfig.dev.json
+C:\Users\fchav\source\repos\Miembros\Miembros\bin\Debug\netcoreapp3.1\Miembros.dll
+C:\Users\fchav\source\repos\Miembros\Miembros\bin\Debug\netcoreapp3.1\Miembros.pdb
+C:\Users\fchav\source\repos\Miembros\Miembros\obj\Debug\netcoreapp3.1\Miembros.dll
+C:\Users\fchav\source\repos\Miembros\Miembros\obj\Debug\netcoreapp3.1\Miembros.pdb
+C:\Users\fchav\source\repos\Miembros\Miembros\obj\Debug\netcoreapp3.1\Miembros.genruntimeconfig.cache

@@ -1,0 +1,6 @@
+C:\Users\usuario\source\repos\Puntajes\Puntajes\bin\Debug\Puntajes.exe.config
+C:\Users\usuario\source\repos\Puntajes\Puntajes\bin\Debug\Puntajes.exe
+C:\Users\usuario\source\repos\Puntajes\Puntajes\bin\Debug\Puntajes.pdb
+C:\Users\usuario\source\repos\Puntajes\Puntajes\obj\Debug\Puntajes.csprojAssemblyReference.cache
+C:\Users\usuario\source\repos\Puntajes\Puntajes\obj\Debug\Puntajes.exe
+C:\Users\usuario\source\repos\Puntajes\Puntajes\obj\Debug\Puntajes.pdb

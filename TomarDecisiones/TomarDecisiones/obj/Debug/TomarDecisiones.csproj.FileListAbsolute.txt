@@ -1,0 +1,6 @@
+C:\Users\usuario\source\repos\TomarDecisiones\TomarDecisiones\bin\Debug\TomarDecisiones.exe.config
+C:\Users\usuario\source\repos\TomarDecisiones\TomarDecisiones\bin\Debug\TomarDecisiones.exe
+C:\Users\usuario\source\repos\TomarDecisiones\TomarDecisiones\bin\Debug\TomarDecisiones.pdb
+C:\Users\usuario\source\repos\TomarDecisiones\TomarDecisiones\obj\Debug\TomarDecisiones.csprojAssemblyReference.cache
+C:\Users\usuario\source\repos\TomarDecisiones\TomarDecisiones\obj\Debug\TomarDecisiones.exe
+C:\Users\usuario\source\repos\TomarDecisiones\TomarDecisiones\obj\Debug\TomarDecisiones.pdb

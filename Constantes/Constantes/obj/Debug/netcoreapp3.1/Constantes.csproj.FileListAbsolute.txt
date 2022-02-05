@@ -1,0 +1,12 @@
+C:\Users\fchav\OneDrive\Documentos\Fer Mavec\C#\Constantes\Constantes\bin\Debug\netcoreapp3.1\Constantes.exe
+C:\Users\fchav\OneDrive\Documentos\Fer Mavec\C#\Constantes\Constantes\bin\Debug\netcoreapp3.1\Constantes.deps.json
+C:\Users\fchav\OneDrive\Documentos\Fer Mavec\C#\Constantes\Constantes\bin\Debug\netcoreapp3.1\Constantes.runtimeconfig.json
+C:\Users\fchav\OneDrive\Documentos\Fer Mavec\C#\Constantes\Constantes\bin\Debug\netcoreapp3.1\Constantes.runtimeconfig.dev.json
+C:\Users\fchav\OneDrive\Documentos\Fer Mavec\C#\Constantes\Constantes\bin\Debug\netcoreapp3.1\Constantes.dll
+C:\Users\fchav\OneDrive\Documentos\Fer Mavec\C#\Constantes\Constantes\bin\Debug\netcoreapp3.1\Constantes.pdb
+C:\Users\fchav\OneDrive\Documentos\Fer Mavec\C#\Constantes\Constantes\obj\Debug\netcoreapp3.1\Constantes.AssemblyInfoInputs.cache
+C:\Users\fchav\OneDrive\Documentos\Fer Mavec\C#\Constantes\Constantes\obj\Debug\netcoreapp3.1\Constantes.AssemblyInfo.cs
+C:\Users\fchav\OneDrive\Documentos\Fer Mavec\C#\Constantes\Constantes\obj\Debug\netcoreapp3.1\Constantes.csproj.CoreCompileInputs.cache
+C:\Users\fchav\OneDrive\Documentos\Fer Mavec\C#\Constantes\Constantes\obj\Debug\netcoreapp3.1\Constantes.dll
+C:\Users\fchav\OneDrive\Documentos\Fer Mavec\C#\Constantes\Constantes\obj\Debug\netcoreapp3.1\Constantes.pdb
+C:\Users\fchav\OneDrive\Documentos\Fer Mavec\C#\Constantes\Constantes\obj\Debug\netcoreapp3.1\Constantes.genruntimeconfig.cache

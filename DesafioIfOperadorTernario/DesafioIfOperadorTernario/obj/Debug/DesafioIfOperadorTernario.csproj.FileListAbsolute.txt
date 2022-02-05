@@ -1,0 +1,7 @@
+C:\Users\Win10\source\repos\DesafioIfOperadorTernario\DesafioIfOperadorTernario\bin\Debug\DesafioIfOperadorTernario.exe.config
+C:\Users\Win10\source\repos\DesafioIfOperadorTernario\DesafioIfOperadorTernario\bin\Debug\DesafioIfOperadorTernario.exe
+C:\Users\Win10\source\repos\DesafioIfOperadorTernario\DesafioIfOperadorTernario\bin\Debug\DesafioIfOperadorTernario.pdb
+C:\Users\Win10\source\repos\DesafioIfOperadorTernario\DesafioIfOperadorTernario\obj\Debug\DesafioIfOperadorTernario.csprojAssemblyReference.cache
+C:\Users\Win10\source\repos\DesafioIfOperadorTernario\DesafioIfOperadorTernario\obj\Debug\DesafioIfOperadorTernario.csproj.CoreCompileInputs.cache
+C:\Users\Win10\source\repos\DesafioIfOperadorTernario\DesafioIfOperadorTernario\obj\Debug\DesafioIfOperadorTernario.exe
+C:\Users\Win10\source\repos\DesafioIfOperadorTernario\DesafioIfOperadorTernario\obj\Debug\DesafioIfOperadorTernario.pdb

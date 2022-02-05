@@ -1,0 +1,12 @@
+C:\Users\fchav\OneDrive\Documentos\Fer Mavec\C#\LeerArchivos\LeerArchivos\bin\Debug\netcoreapp3.1\LeerArchivos.exe
+C:\Users\fchav\OneDrive\Documentos\Fer Mavec\C#\LeerArchivos\LeerArchivos\bin\Debug\netcoreapp3.1\LeerArchivos.deps.json
+C:\Users\fchav\OneDrive\Documentos\Fer Mavec\C#\LeerArchivos\LeerArchivos\bin\Debug\netcoreapp3.1\LeerArchivos.runtimeconfig.json
+C:\Users\fchav\OneDrive\Documentos\Fer Mavec\C#\LeerArchivos\LeerArchivos\bin\Debug\netcoreapp3.1\LeerArchivos.runtimeconfig.dev.json
+C:\Users\fchav\OneDrive\Documentos\Fer Mavec\C#\LeerArchivos\LeerArchivos\bin\Debug\netcoreapp3.1\LeerArchivos.dll
+C:\Users\fchav\OneDrive\Documentos\Fer Mavec\C#\LeerArchivos\LeerArchivos\bin\Debug\netcoreapp3.1\LeerArchivos.pdb
+C:\Users\fchav\OneDrive\Documentos\Fer Mavec\C#\LeerArchivos\LeerArchivos\obj\Debug\netcoreapp3.1\LeerArchivos.AssemblyInfoInputs.cache
+C:\Users\fchav\OneDrive\Documentos\Fer Mavec\C#\LeerArchivos\LeerArchivos\obj\Debug\netcoreapp3.1\LeerArchivos.AssemblyInfo.cs
+C:\Users\fchav\OneDrive\Documentos\Fer Mavec\C#\LeerArchivos\LeerArchivos\obj\Debug\netcoreapp3.1\LeerArchivos.csproj.CoreCompileInputs.cache
+C:\Users\fchav\OneDrive\Documentos\Fer Mavec\C#\LeerArchivos\LeerArchivos\obj\Debug\netcoreapp3.1\LeerArchivos.dll
+C:\Users\fchav\OneDrive\Documentos\Fer Mavec\C#\LeerArchivos\LeerArchivos\obj\Debug\netcoreapp3.1\LeerArchivos.pdb
+C:\Users\fchav\OneDrive\Documentos\Fer Mavec\C#\LeerArchivos\LeerArchivos\obj\Debug\netcoreapp3.1\LeerArchivos.genruntimeconfig.cache

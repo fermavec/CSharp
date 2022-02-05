@@ -1,0 +1,8 @@
+C:\Users\usuario\source\repos\Propiedades\Propiedades\bin\Debug\Propiedades.exe.config
+C:\Users\usuario\source\repos\Propiedades\Propiedades\bin\Debug\Propiedades.exe
+C:\Users\usuario\source\repos\Propiedades\Propiedades\bin\Debug\Propiedades.pdb
+C:\Users\usuario\source\repos\Propiedades\Propiedades\obj\Debug\Propiedades.csprojAssemblyReference.cache
+C:\Users\usuario\source\repos\Propiedades\Propiedades\obj\Debug\Propiedades.exe
+C:\Users\usuario\source\repos\Propiedades\Propiedades\obj\Debug\Propiedades.pdb
+C:\Users\fchav\OneDrive\Documentos\Fer Mavec\C#\Propiedades\Propiedades\obj\Debug\Propiedades.exe
+C:\Users\fchav\OneDrive\Documentos\Fer Mavec\C#\Propiedades\Propiedades\obj\Debug\Propiedades.pdb

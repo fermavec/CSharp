@@ -1,0 +1,13 @@
+C:\Users\fchav\OneDrive\Documentos\Fer Mavec\C#\2_Variables\2_Variables\bin\Debug\netcoreapp3.1\2_Variables.exe
+C:\Users\fchav\OneDrive\Documentos\Fer Mavec\C#\2_Variables\2_Variables\bin\Debug\netcoreapp3.1\2_Variables.deps.json
+C:\Users\fchav\OneDrive\Documentos\Fer Mavec\C#\2_Variables\2_Variables\bin\Debug\netcoreapp3.1\2_Variables.runtimeconfig.json
+C:\Users\fchav\OneDrive\Documentos\Fer Mavec\C#\2_Variables\2_Variables\bin\Debug\netcoreapp3.1\2_Variables.runtimeconfig.dev.json
+C:\Users\fchav\OneDrive\Documentos\Fer Mavec\C#\2_Variables\2_Variables\bin\Debug\netcoreapp3.1\2_Variables.dll
+C:\Users\fchav\OneDrive\Documentos\Fer Mavec\C#\2_Variables\2_Variables\bin\Debug\netcoreapp3.1\2_Variables.pdb
+C:\Users\fchav\OneDrive\Documentos\Fer Mavec\C#\2_Variables\2_Variables\obj\Debug\netcoreapp3.1\2_Variables.csprojAssemblyReference.cache
+C:\Users\fchav\OneDrive\Documentos\Fer Mavec\C#\2_Variables\2_Variables\obj\Debug\netcoreapp3.1\2_Variables.AssemblyInfoInputs.cache
+C:\Users\fchav\OneDrive\Documentos\Fer Mavec\C#\2_Variables\2_Variables\obj\Debug\netcoreapp3.1\2_Variables.AssemblyInfo.cs
+C:\Users\fchav\OneDrive\Documentos\Fer Mavec\C#\2_Variables\2_Variables\obj\Debug\netcoreapp3.1\2_Variables.csproj.CoreCompileInputs.cache
+C:\Users\fchav\OneDrive\Documentos\Fer Mavec\C#\2_Variables\2_Variables\obj\Debug\netcoreapp3.1\2_Variables.dll
+C:\Users\fchav\OneDrive\Documentos\Fer Mavec\C#\2_Variables\2_Variables\obj\Debug\netcoreapp3.1\2_Variables.pdb
+C:\Users\fchav\OneDrive\Documentos\Fer Mavec\C#\2_Variables\2_Variables\obj\Debug\netcoreapp3.1\2_Variables.genruntimeconfig.cache

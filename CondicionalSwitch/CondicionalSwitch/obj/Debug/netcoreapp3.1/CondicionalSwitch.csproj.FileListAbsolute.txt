@@ -1,0 +1,13 @@
+C:\Users\fchav\OneDrive\Documentos\Fer Mavec\C#\CondicionalSwitch\CondicionalSwitch\bin\Debug\netcoreapp3.1\CondicionalSwitch.exe
+C:\Users\fchav\OneDrive\Documentos\Fer Mavec\C#\CondicionalSwitch\CondicionalSwitch\bin\Debug\netcoreapp3.1\CondicionalSwitch.deps.json
+C:\Users\fchav\OneDrive\Documentos\Fer Mavec\C#\CondicionalSwitch\CondicionalSwitch\bin\Debug\netcoreapp3.1\CondicionalSwitch.runtimeconfig.json
+C:\Users\fchav\OneDrive\Documentos\Fer Mavec\C#\CondicionalSwitch\CondicionalSwitch\bin\Debug\netcoreapp3.1\CondicionalSwitch.runtimeconfig.dev.json
+C:\Users\fchav\OneDrive\Documentos\Fer Mavec\C#\CondicionalSwitch\CondicionalSwitch\bin\Debug\netcoreapp3.1\CondicionalSwitch.dll
+C:\Users\fchav\OneDrive\Documentos\Fer Mavec\C#\CondicionalSwitch\CondicionalSwitch\bin\Debug\netcoreapp3.1\CondicionalSwitch.pdb
+C:\Users\fchav\OneDrive\Documentos\Fer Mavec\C#\CondicionalSwitch\CondicionalSwitch\obj\Debug\netcoreapp3.1\CondicionalSwitch.csprojAssemblyReference.cache
+C:\Users\fchav\OneDrive\Documentos\Fer Mavec\C#\CondicionalSwitch\CondicionalSwitch\obj\Debug\netcoreapp3.1\CondicionalSwitch.AssemblyInfoInputs.cache
+C:\Users\fchav\OneDrive\Documentos\Fer Mavec\C#\CondicionalSwitch\CondicionalSwitch\obj\Debug\netcoreapp3.1\CondicionalSwitch.AssemblyInfo.cs
+C:\Users\fchav\OneDrive\Documentos\Fer Mavec\C#\CondicionalSwitch\CondicionalSwitch\obj\Debug\netcoreapp3.1\CondicionalSwitch.csproj.CoreCompileInputs.cache
+C:\Users\fchav\OneDrive\Documentos\Fer Mavec\C#\CondicionalSwitch\CondicionalSwitch\obj\Debug\netcoreapp3.1\CondicionalSwitch.dll
+C:\Users\fchav\OneDrive\Documentos\Fer Mavec\C#\CondicionalSwitch\CondicionalSwitch\obj\Debug\netcoreapp3.1\CondicionalSwitch.pdb
+C:\Users\fchav\OneDrive\Documentos\Fer Mavec\C#\CondicionalSwitch\CondicionalSwitch\obj\Debug\netcoreapp3.1\CondicionalSwitch.genruntimeconfig.cache

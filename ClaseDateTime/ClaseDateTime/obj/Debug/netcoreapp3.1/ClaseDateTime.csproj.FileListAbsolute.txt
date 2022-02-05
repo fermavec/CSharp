@@ -1,0 +1,13 @@
+C:\Users\fchav\OneDrive\Documentos\Fer Mavec\C#\ClaseDateTime\ClaseDateTime\bin\Debug\netcoreapp3.1\ClaseDateTime.exe
+C:\Users\fchav\OneDrive\Documentos\Fer Mavec\C#\ClaseDateTime\ClaseDateTime\bin\Debug\netcoreapp3.1\ClaseDateTime.deps.json
+C:\Users\fchav\OneDrive\Documentos\Fer Mavec\C#\ClaseDateTime\ClaseDateTime\bin\Debug\netcoreapp3.1\ClaseDateTime.runtimeconfig.json
+C:\Users\fchav\OneDrive\Documentos\Fer Mavec\C#\ClaseDateTime\ClaseDateTime\bin\Debug\netcoreapp3.1\ClaseDateTime.runtimeconfig.dev.json
+C:\Users\fchav\OneDrive\Documentos\Fer Mavec\C#\ClaseDateTime\ClaseDateTime\bin\Debug\netcoreapp3.1\ClaseDateTime.dll
+C:\Users\fchav\OneDrive\Documentos\Fer Mavec\C#\ClaseDateTime\ClaseDateTime\bin\Debug\netcoreapp3.1\ClaseDateTime.pdb
+C:\Users\fchav\OneDrive\Documentos\Fer Mavec\C#\ClaseDateTime\ClaseDateTime\obj\Debug\netcoreapp3.1\ClaseDateTime.csprojAssemblyReference.cache
+C:\Users\fchav\OneDrive\Documentos\Fer Mavec\C#\ClaseDateTime\ClaseDateTime\obj\Debug\netcoreapp3.1\ClaseDateTime.AssemblyInfoInputs.cache
+C:\Users\fchav\OneDrive\Documentos\Fer Mavec\C#\ClaseDateTime\ClaseDateTime\obj\Debug\netcoreapp3.1\ClaseDateTime.AssemblyInfo.cs
+C:\Users\fchav\OneDrive\Documentos\Fer Mavec\C#\ClaseDateTime\ClaseDateTime\obj\Debug\netcoreapp3.1\ClaseDateTime.csproj.CoreCompileInputs.cache
+C:\Users\fchav\OneDrive\Documentos\Fer Mavec\C#\ClaseDateTime\ClaseDateTime\obj\Debug\netcoreapp3.1\ClaseDateTime.dll
+C:\Users\fchav\OneDrive\Documentos\Fer Mavec\C#\ClaseDateTime\ClaseDateTime\obj\Debug\netcoreapp3.1\ClaseDateTime.pdb
+C:\Users\fchav\OneDrive\Documentos\Fer Mavec\C#\ClaseDateTime\ClaseDateTime\obj\Debug\netcoreapp3.1\ClaseDateTime.genruntimeconfig.cache

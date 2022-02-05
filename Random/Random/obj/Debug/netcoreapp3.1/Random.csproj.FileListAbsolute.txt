@@ -1,0 +1,12 @@
+C:\Users\fchav\OneDrive\Documentos\Fer Mavec\C#\Random\Random\bin\Debug\netcoreapp3.1\Random.exe
+C:\Users\fchav\OneDrive\Documentos\Fer Mavec\C#\Random\Random\bin\Debug\netcoreapp3.1\Random.deps.json
+C:\Users\fchav\OneDrive\Documentos\Fer Mavec\C#\Random\Random\bin\Debug\netcoreapp3.1\Random.runtimeconfig.json
+C:\Users\fchav\OneDrive\Documentos\Fer Mavec\C#\Random\Random\bin\Debug\netcoreapp3.1\Random.runtimeconfig.dev.json
+C:\Users\fchav\OneDrive\Documentos\Fer Mavec\C#\Random\Random\bin\Debug\netcoreapp3.1\Random.dll
+C:\Users\fchav\OneDrive\Documentos\Fer Mavec\C#\Random\Random\bin\Debug\netcoreapp3.1\Random.pdb
+C:\Users\fchav\OneDrive\Documentos\Fer Mavec\C#\Random\Random\obj\Debug\netcoreapp3.1\Random.AssemblyInfoInputs.cache
+C:\Users\fchav\OneDrive\Documentos\Fer Mavec\C#\Random\Random\obj\Debug\netcoreapp3.1\Random.AssemblyInfo.cs
+C:\Users\fchav\OneDrive\Documentos\Fer Mavec\C#\Random\Random\obj\Debug\netcoreapp3.1\Random.csproj.CoreCompileInputs.cache
+C:\Users\fchav\OneDrive\Documentos\Fer Mavec\C#\Random\Random\obj\Debug\netcoreapp3.1\Random.dll
+C:\Users\fchav\OneDrive\Documentos\Fer Mavec\C#\Random\Random\obj\Debug\netcoreapp3.1\Random.pdb
+C:\Users\fchav\OneDrive\Documentos\Fer Mavec\C#\Random\Random\obj\Debug\netcoreapp3.1\Random.genruntimeconfig.cache

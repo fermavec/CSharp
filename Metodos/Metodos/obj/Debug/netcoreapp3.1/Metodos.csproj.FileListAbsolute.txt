@@ -1,0 +1,13 @@
+C:\Users\fchav\OneDrive\Documentos\Fer Mavec\C#\Metodos\Metodos\bin\Debug\netcoreapp3.1\Metodos.exe
+C:\Users\fchav\OneDrive\Documentos\Fer Mavec\C#\Metodos\Metodos\bin\Debug\netcoreapp3.1\Metodos.deps.json
+C:\Users\fchav\OneDrive\Documentos\Fer Mavec\C#\Metodos\Metodos\bin\Debug\netcoreapp3.1\Metodos.runtimeconfig.json
+C:\Users\fchav\OneDrive\Documentos\Fer Mavec\C#\Metodos\Metodos\bin\Debug\netcoreapp3.1\Metodos.runtimeconfig.dev.json
+C:\Users\fchav\OneDrive\Documentos\Fer Mavec\C#\Metodos\Metodos\bin\Debug\netcoreapp3.1\Metodos.dll
+C:\Users\fchav\OneDrive\Documentos\Fer Mavec\C#\Metodos\Metodos\bin\Debug\netcoreapp3.1\Metodos.pdb
+C:\Users\fchav\OneDrive\Documentos\Fer Mavec\C#\Metodos\Metodos\obj\Debug\netcoreapp3.1\Metodos.csprojAssemblyReference.cache
+C:\Users\fchav\OneDrive\Documentos\Fer Mavec\C#\Metodos\Metodos\obj\Debug\netcoreapp3.1\Metodos.AssemblyInfoInputs.cache
+C:\Users\fchav\OneDrive\Documentos\Fer Mavec\C#\Metodos\Metodos\obj\Debug\netcoreapp3.1\Metodos.AssemblyInfo.cs
+C:\Users\fchav\OneDrive\Documentos\Fer Mavec\C#\Metodos\Metodos\obj\Debug\netcoreapp3.1\Metodos.csproj.CoreCompileInputs.cache
+C:\Users\fchav\OneDrive\Documentos\Fer Mavec\C#\Metodos\Metodos\obj\Debug\netcoreapp3.1\Metodos.dll
+C:\Users\fchav\OneDrive\Documentos\Fer Mavec\C#\Metodos\Metodos\obj\Debug\netcoreapp3.1\Metodos.pdb
+C:\Users\fchav\OneDrive\Documentos\Fer Mavec\C#\Metodos\Metodos\obj\Debug\netcoreapp3.1\Metodos.genruntimeconfig.cache

@@ -1,0 +1,6 @@
+C:\Users\Win10\source\repos\EmpleadosYJefes\EmpleadosYJefes\bin\Debug\EmpleadosYJefes.exe.config
+C:\Users\Win10\source\repos\EmpleadosYJefes\EmpleadosYJefes\bin\Debug\EmpleadosYJefes.exe
+C:\Users\Win10\source\repos\EmpleadosYJefes\EmpleadosYJefes\bin\Debug\EmpleadosYJefes.pdb
+C:\Users\Win10\source\repos\EmpleadosYJefes\EmpleadosYJefes\obj\Debug\EmpleadosYJefes.csprojAssemblyReference.cache
+C:\Users\Win10\source\repos\EmpleadosYJefes\EmpleadosYJefes\obj\Debug\EmpleadosYJefes.exe
+C:\Users\Win10\source\repos\EmpleadosYJefes\EmpleadosYJefes\obj\Debug\EmpleadosYJefes.pdb

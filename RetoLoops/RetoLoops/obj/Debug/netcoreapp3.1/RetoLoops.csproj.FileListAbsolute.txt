@@ -1,0 +1,12 @@
+C:\Users\fchav\OneDrive\Documentos\Fer Mavec\C#\RetoLoops\RetoLoops\bin\Debug\netcoreapp3.1\RetoLoops.exe
+C:\Users\fchav\OneDrive\Documentos\Fer Mavec\C#\RetoLoops\RetoLoops\bin\Debug\netcoreapp3.1\RetoLoops.deps.json
+C:\Users\fchav\OneDrive\Documentos\Fer Mavec\C#\RetoLoops\RetoLoops\bin\Debug\netcoreapp3.1\RetoLoops.runtimeconfig.json
+C:\Users\fchav\OneDrive\Documentos\Fer Mavec\C#\RetoLoops\RetoLoops\bin\Debug\netcoreapp3.1\RetoLoops.runtimeconfig.dev.json
+C:\Users\fchav\OneDrive\Documentos\Fer Mavec\C#\RetoLoops\RetoLoops\bin\Debug\netcoreapp3.1\RetoLoops.dll
+C:\Users\fchav\OneDrive\Documentos\Fer Mavec\C#\RetoLoops\RetoLoops\bin\Debug\netcoreapp3.1\RetoLoops.pdb
+C:\Users\fchav\OneDrive\Documentos\Fer Mavec\C#\RetoLoops\RetoLoops\obj\Debug\netcoreapp3.1\RetoLoops.AssemblyInfoInputs.cache
+C:\Users\fchav\OneDrive\Documentos\Fer Mavec\C#\RetoLoops\RetoLoops\obj\Debug\netcoreapp3.1\RetoLoops.AssemblyInfo.cs
+C:\Users\fchav\OneDrive\Documentos\Fer Mavec\C#\RetoLoops\RetoLoops\obj\Debug\netcoreapp3.1\RetoLoops.csproj.CoreCompileInputs.cache
+C:\Users\fchav\OneDrive\Documentos\Fer Mavec\C#\RetoLoops\RetoLoops\obj\Debug\netcoreapp3.1\RetoLoops.dll
+C:\Users\fchav\OneDrive\Documentos\Fer Mavec\C#\RetoLoops\RetoLoops\obj\Debug\netcoreapp3.1\RetoLoops.pdb
+C:\Users\fchav\OneDrive\Documentos\Fer Mavec\C#\RetoLoops\RetoLoops\obj\Debug\netcoreapp3.1\RetoLoops.genruntimeconfig.cache

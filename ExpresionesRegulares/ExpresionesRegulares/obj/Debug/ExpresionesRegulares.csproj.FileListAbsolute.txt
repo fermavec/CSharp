@@ -1,0 +1,6 @@
+C:\Users\Win10\source\repos\ExpresionesRegulares\ExpresionesRegulares\bin\Debug\ExpresionesRegulares.exe.config
+C:\Users\Win10\source\repos\ExpresionesRegulares\ExpresionesRegulares\bin\Debug\ExpresionesRegulares.exe
+C:\Users\Win10\source\repos\ExpresionesRegulares\ExpresionesRegulares\bin\Debug\ExpresionesRegulares.pdb
+C:\Users\Win10\source\repos\ExpresionesRegulares\ExpresionesRegulares\obj\Debug\ExpresionesRegulares.csprojAssemblyReference.cache
+C:\Users\Win10\source\repos\ExpresionesRegulares\ExpresionesRegulares\obj\Debug\ExpresionesRegulares.exe
+C:\Users\Win10\source\repos\ExpresionesRegulares\ExpresionesRegulares\obj\Debug\ExpresionesRegulares.pdb

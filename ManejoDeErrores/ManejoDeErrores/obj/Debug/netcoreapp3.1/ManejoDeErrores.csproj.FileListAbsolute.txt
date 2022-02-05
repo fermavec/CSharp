@@ -1,0 +1,13 @@
+C:\Users\fchav\OneDrive\Documentos\Fer Mavec\C#\ManejoDeErrores\ManejoDeErrores\bin\Debug\netcoreapp3.1\ManejoDeErrores.exe
+C:\Users\fchav\OneDrive\Documentos\Fer Mavec\C#\ManejoDeErrores\ManejoDeErrores\bin\Debug\netcoreapp3.1\ManejoDeErrores.deps.json
+C:\Users\fchav\OneDrive\Documentos\Fer Mavec\C#\ManejoDeErrores\ManejoDeErrores\bin\Debug\netcoreapp3.1\ManejoDeErrores.runtimeconfig.json
+C:\Users\fchav\OneDrive\Documentos\Fer Mavec\C#\ManejoDeErrores\ManejoDeErrores\bin\Debug\netcoreapp3.1\ManejoDeErrores.runtimeconfig.dev.json
+C:\Users\fchav\OneDrive\Documentos\Fer Mavec\C#\ManejoDeErrores\ManejoDeErrores\bin\Debug\netcoreapp3.1\ManejoDeErrores.dll
+C:\Users\fchav\OneDrive\Documentos\Fer Mavec\C#\ManejoDeErrores\ManejoDeErrores\bin\Debug\netcoreapp3.1\ManejoDeErrores.pdb
+C:\Users\fchav\OneDrive\Documentos\Fer Mavec\C#\ManejoDeErrores\ManejoDeErrores\obj\Debug\netcoreapp3.1\ManejoDeErrores.csprojAssemblyReference.cache
+C:\Users\fchav\OneDrive\Documentos\Fer Mavec\C#\ManejoDeErrores\ManejoDeErrores\obj\Debug\netcoreapp3.1\ManejoDeErrores.AssemblyInfoInputs.cache
+C:\Users\fchav\OneDrive\Documentos\Fer Mavec\C#\ManejoDeErrores\ManejoDeErrores\obj\Debug\netcoreapp3.1\ManejoDeErrores.AssemblyInfo.cs
+C:\Users\fchav\OneDrive\Documentos\Fer Mavec\C#\ManejoDeErrores\ManejoDeErrores\obj\Debug\netcoreapp3.1\ManejoDeErrores.csproj.CoreCompileInputs.cache
+C:\Users\fchav\OneDrive\Documentos\Fer Mavec\C#\ManejoDeErrores\ManejoDeErrores\obj\Debug\netcoreapp3.1\ManejoDeErrores.dll
+C:\Users\fchav\OneDrive\Documentos\Fer Mavec\C#\ManejoDeErrores\ManejoDeErrores\obj\Debug\netcoreapp3.1\ManejoDeErrores.pdb
+C:\Users\fchav\OneDrive\Documentos\Fer Mavec\C#\ManejoDeErrores\ManejoDeErrores\obj\Debug\netcoreapp3.1\ManejoDeErrores.genruntimeconfig.cache

@@ -1,0 +1,6 @@
+C:\Users\Win10\source\repos\ExpresionesLambda\ExpresionesLambda\obj\Debug\ExpresionesLambda.csprojAssemblyReference.cache
+C:\Users\Win10\source\repos\ExpresionesLambda\ExpresionesLambda\bin\Debug\ExpresionesLambda.exe.config
+C:\Users\Win10\source\repos\ExpresionesLambda\ExpresionesLambda\bin\Debug\ExpresionesLambda.exe
+C:\Users\Win10\source\repos\ExpresionesLambda\ExpresionesLambda\bin\Debug\ExpresionesLambda.pdb
+C:\Users\Win10\source\repos\ExpresionesLambda\ExpresionesLambda\obj\Debug\ExpresionesLambda.exe
+C:\Users\Win10\source\repos\ExpresionesLambda\ExpresionesLambda\obj\Debug\ExpresionesLambda.pdb

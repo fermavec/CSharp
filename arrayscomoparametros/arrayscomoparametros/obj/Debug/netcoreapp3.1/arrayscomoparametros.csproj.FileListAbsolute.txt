@@ -1,0 +1,12 @@
+C:\Users\fchav\source\repos\arrayscomoparametros\arrayscomoparametros\bin\Debug\netcoreapp3.1\arrayscomoparametros.exe
+C:\Users\fchav\source\repos\arrayscomoparametros\arrayscomoparametros\bin\Debug\netcoreapp3.1\arrayscomoparametros.deps.json
+C:\Users\fchav\source\repos\arrayscomoparametros\arrayscomoparametros\bin\Debug\netcoreapp3.1\arrayscomoparametros.runtimeconfig.json
+C:\Users\fchav\source\repos\arrayscomoparametros\arrayscomoparametros\bin\Debug\netcoreapp3.1\arrayscomoparametros.runtimeconfig.dev.json
+C:\Users\fchav\source\repos\arrayscomoparametros\arrayscomoparametros\bin\Debug\netcoreapp3.1\arrayscomoparametros.dll
+C:\Users\fchav\source\repos\arrayscomoparametros\arrayscomoparametros\bin\Debug\netcoreapp3.1\arrayscomoparametros.pdb
+C:\Users\fchav\source\repos\arrayscomoparametros\arrayscomoparametros\obj\Debug\netcoreapp3.1\arrayscomoparametros.AssemblyInfoInputs.cache
+C:\Users\fchav\source\repos\arrayscomoparametros\arrayscomoparametros\obj\Debug\netcoreapp3.1\arrayscomoparametros.AssemblyInfo.cs
+C:\Users\fchav\source\repos\arrayscomoparametros\arrayscomoparametros\obj\Debug\netcoreapp3.1\arrayscomoparametros.csproj.CoreCompileInputs.cache
+C:\Users\fchav\source\repos\arrayscomoparametros\arrayscomoparametros\obj\Debug\netcoreapp3.1\arrayscomoparametros.dll
+C:\Users\fchav\source\repos\arrayscomoparametros\arrayscomoparametros\obj\Debug\netcoreapp3.1\arrayscomoparametros.pdb
+C:\Users\fchav\source\repos\arrayscomoparametros\arrayscomoparametros\obj\Debug\netcoreapp3.1\arrayscomoparametros.genruntimeconfig.cache

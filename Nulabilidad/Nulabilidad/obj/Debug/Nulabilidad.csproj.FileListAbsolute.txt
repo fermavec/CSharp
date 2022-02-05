@@ -1,0 +1,6 @@
+C:\Users\Win10\source\repos\Nulabilidad\Nulabilidad\bin\Debug\Nulabilidad.exe.config
+C:\Users\Win10\source\repos\Nulabilidad\Nulabilidad\bin\Debug\Nulabilidad.exe
+C:\Users\Win10\source\repos\Nulabilidad\Nulabilidad\bin\Debug\Nulabilidad.pdb
+C:\Users\Win10\source\repos\Nulabilidad\Nulabilidad\obj\Debug\Nulabilidad.csprojAssemblyReference.cache
+C:\Users\Win10\source\repos\Nulabilidad\Nulabilidad\obj\Debug\Nulabilidad.exe
+C:\Users\Win10\source\repos\Nulabilidad\Nulabilidad\obj\Debug\Nulabilidad.pdb

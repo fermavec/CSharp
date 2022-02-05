@@ -1,0 +1,13 @@
+C:\Users\fchav\source\repos\arraysmultidimensionales\arraysmultidimensionales\bin\Debug\netcoreapp3.1\arraysmultidimensionales.exe
+C:\Users\fchav\source\repos\arraysmultidimensionales\arraysmultidimensionales\bin\Debug\netcoreapp3.1\arraysmultidimensionales.deps.json
+C:\Users\fchav\source\repos\arraysmultidimensionales\arraysmultidimensionales\bin\Debug\netcoreapp3.1\arraysmultidimensionales.runtimeconfig.json
+C:\Users\fchav\source\repos\arraysmultidimensionales\arraysmultidimensionales\bin\Debug\netcoreapp3.1\arraysmultidimensionales.runtimeconfig.dev.json
+C:\Users\fchav\source\repos\arraysmultidimensionales\arraysmultidimensionales\bin\Debug\netcoreapp3.1\arraysmultidimensionales.dll
+C:\Users\fchav\source\repos\arraysmultidimensionales\arraysmultidimensionales\bin\Debug\netcoreapp3.1\arraysmultidimensionales.pdb
+C:\Users\fchav\source\repos\arraysmultidimensionales\arraysmultidimensionales\obj\Debug\netcoreapp3.1\arraysmultidimensionales.csprojAssemblyReference.cache
+C:\Users\fchav\source\repos\arraysmultidimensionales\arraysmultidimensionales\obj\Debug\netcoreapp3.1\arraysmultidimensionales.AssemblyInfoInputs.cache
+C:\Users\fchav\source\repos\arraysmultidimensionales\arraysmultidimensionales\obj\Debug\netcoreapp3.1\arraysmultidimensionales.AssemblyInfo.cs
+C:\Users\fchav\source\repos\arraysmultidimensionales\arraysmultidimensionales\obj\Debug\netcoreapp3.1\arraysmultidimensionales.csproj.CoreCompileInputs.cache
+C:\Users\fchav\source\repos\arraysmultidimensionales\arraysmultidimensionales\obj\Debug\netcoreapp3.1\arraysmultidimensionales.dll
+C:\Users\fchav\source\repos\arraysmultidimensionales\arraysmultidimensionales\obj\Debug\netcoreapp3.1\arraysmultidimensionales.pdb
+C:\Users\fchav\source\repos\arraysmultidimensionales\arraysmultidimensionales\obj\Debug\netcoreapp3.1\arraysmultidimensionales.genruntimeconfig.cache

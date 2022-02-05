@@ -1,0 +1,13 @@
+C:\Users\fchav\OneDrive\Documentos\Fer Mavec\C#\MetodosAnonimos\MetodosAnonimos\bin\Debug\netcoreapp3.1\MetodosAnonimos.exe
+C:\Users\fchav\OneDrive\Documentos\Fer Mavec\C#\MetodosAnonimos\MetodosAnonimos\bin\Debug\netcoreapp3.1\MetodosAnonimos.deps.json
+C:\Users\fchav\OneDrive\Documentos\Fer Mavec\C#\MetodosAnonimos\MetodosAnonimos\bin\Debug\netcoreapp3.1\MetodosAnonimos.runtimeconfig.json
+C:\Users\fchav\OneDrive\Documentos\Fer Mavec\C#\MetodosAnonimos\MetodosAnonimos\bin\Debug\netcoreapp3.1\MetodosAnonimos.runtimeconfig.dev.json
+C:\Users\fchav\OneDrive\Documentos\Fer Mavec\C#\MetodosAnonimos\MetodosAnonimos\bin\Debug\netcoreapp3.1\MetodosAnonimos.dll
+C:\Users\fchav\OneDrive\Documentos\Fer Mavec\C#\MetodosAnonimos\MetodosAnonimos\bin\Debug\netcoreapp3.1\MetodosAnonimos.pdb
+C:\Users\fchav\OneDrive\Documentos\Fer Mavec\C#\MetodosAnonimos\MetodosAnonimos\obj\Debug\netcoreapp3.1\MetodosAnonimos.csprojAssemblyReference.cache
+C:\Users\fchav\OneDrive\Documentos\Fer Mavec\C#\MetodosAnonimos\MetodosAnonimos\obj\Debug\netcoreapp3.1\MetodosAnonimos.AssemblyInfoInputs.cache
+C:\Users\fchav\OneDrive\Documentos\Fer Mavec\C#\MetodosAnonimos\MetodosAnonimos\obj\Debug\netcoreapp3.1\MetodosAnonimos.AssemblyInfo.cs
+C:\Users\fchav\OneDrive\Documentos\Fer Mavec\C#\MetodosAnonimos\MetodosAnonimos\obj\Debug\netcoreapp3.1\MetodosAnonimos.csproj.CoreCompileInputs.cache
+C:\Users\fchav\OneDrive\Documentos\Fer Mavec\C#\MetodosAnonimos\MetodosAnonimos\obj\Debug\netcoreapp3.1\MetodosAnonimos.dll
+C:\Users\fchav\OneDrive\Documentos\Fer Mavec\C#\MetodosAnonimos\MetodosAnonimos\obj\Debug\netcoreapp3.1\MetodosAnonimos.pdb
+C:\Users\fchav\OneDrive\Documentos\Fer Mavec\C#\MetodosAnonimos\MetodosAnonimos\obj\Debug\netcoreapp3.1\MetodosAnonimos.genruntimeconfig.cache

@@ -1,0 +1,6 @@
+C:\Users\usuario\source\repos\DeclaracionIfMejorada\DeclaracionIfMejorada\bin\Debug\DeclaracionIfMejorada.exe.config
+C:\Users\usuario\source\repos\DeclaracionIfMejorada\DeclaracionIfMejorada\bin\Debug\DeclaracionIfMejorada.exe
+C:\Users\usuario\source\repos\DeclaracionIfMejorada\DeclaracionIfMejorada\bin\Debug\DeclaracionIfMejorada.pdb
+C:\Users\usuario\source\repos\DeclaracionIfMejorada\DeclaracionIfMejorada\obj\Debug\DeclaracionIfMejorada.csprojAssemblyReference.cache
+C:\Users\usuario\source\repos\DeclaracionIfMejorada\DeclaracionIfMejorada\obj\Debug\DeclaracionIfMejorada.exe
+C:\Users\usuario\source\repos\DeclaracionIfMejorada\DeclaracionIfMejorada\obj\Debug\DeclaracionIfMejorada.pdb

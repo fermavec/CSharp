@@ -1,0 +1,6 @@
+C:\Users\Win10\source\repos\ArrayListVsList\ArrayListVsList\bin\Debug\ArrayListVsList.exe.config
+C:\Users\Win10\source\repos\ArrayListVsList\ArrayListVsList\bin\Debug\ArrayListVsList.exe
+C:\Users\Win10\source\repos\ArrayListVsList\ArrayListVsList\bin\Debug\ArrayListVsList.pdb
+C:\Users\Win10\source\repos\ArrayListVsList\ArrayListVsList\obj\Debug\ArrayListVsList.csprojAssemblyReference.cache
+C:\Users\Win10\source\repos\ArrayListVsList\ArrayListVsList\obj\Debug\ArrayListVsList.exe
+C:\Users\Win10\source\repos\ArrayListVsList\ArrayListVsList\obj\Debug\ArrayListVsList.pdb

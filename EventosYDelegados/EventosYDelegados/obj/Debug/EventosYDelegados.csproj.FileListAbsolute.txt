@@ -1,0 +1,14 @@
+C:\Users\Win10\source\repos\EventosYDelegados\EventosYDelegados\obj\Debug\EventosYDelegados.csprojAssemblyReference.cache
+C:\Users\Win10\source\repos\EventosYDelegados\EventosYDelegados\obj\Debug\EventosYDelegados.csproj.CoreCompileInputs.cache
+C:\Users\Win10\source\repos\EventosYDelegados\EventosYDelegados\bin\Debug\EventosYDelegados.exe.config
+C:\Users\Win10\source\repos\EventosYDelegados\EventosYDelegados\bin\Debug\EventosYDelegados.exe
+C:\Users\Win10\source\repos\EventosYDelegados\EventosYDelegados\bin\Debug\EventosYDelegados.pdb
+C:\Users\Win10\source\repos\EventosYDelegados\EventosYDelegados\obj\Debug\EventosYDelegados.exe
+C:\Users\Win10\source\repos\EventosYDelegados\EventosYDelegados\obj\Debug\EventosYDelegados.pdb
+C:\Users\fchav\OneDrive\Documentos\Fer Mavec\C#\EventosYDelegados\EventosYDelegados\bin\Debug\EventosYDelegados.exe.config
+C:\Users\fchav\OneDrive\Documentos\Fer Mavec\C#\EventosYDelegados\EventosYDelegados\bin\Debug\EventosYDelegados.exe
+C:\Users\fchav\OneDrive\Documentos\Fer Mavec\C#\EventosYDelegados\EventosYDelegados\bin\Debug\EventosYDelegados.pdb
+C:\Users\fchav\OneDrive\Documentos\Fer Mavec\C#\EventosYDelegados\EventosYDelegados\obj\Debug\EventosYDelegados.csprojAssemblyReference.cache
+C:\Users\fchav\OneDrive\Documentos\Fer Mavec\C#\EventosYDelegados\EventosYDelegados\obj\Debug\EventosYDelegados.csproj.CoreCompileInputs.cache
+C:\Users\fchav\OneDrive\Documentos\Fer Mavec\C#\EventosYDelegados\EventosYDelegados\obj\Debug\EventosYDelegados.exe
+C:\Users\fchav\OneDrive\Documentos\Fer Mavec\C#\EventosYDelegados\EventosYDelegados\obj\Debug\EventosYDelegados.pdb

@@ -1,0 +1,13 @@
+C:\Users\fchav\source\repos\arraysIrregulares\arraysIrregulares\bin\Debug\netcoreapp3.1\arraysIrregulares.exe
+C:\Users\fchav\source\repos\arraysIrregulares\arraysIrregulares\bin\Debug\netcoreapp3.1\arraysIrregulares.deps.json
+C:\Users\fchav\source\repos\arraysIrregulares\arraysIrregulares\bin\Debug\netcoreapp3.1\arraysIrregulares.runtimeconfig.json
+C:\Users\fchav\source\repos\arraysIrregulares\arraysIrregulares\bin\Debug\netcoreapp3.1\arraysIrregulares.runtimeconfig.dev.json
+C:\Users\fchav\source\repos\arraysIrregulares\arraysIrregulares\bin\Debug\netcoreapp3.1\arraysIrregulares.dll
+C:\Users\fchav\source\repos\arraysIrregulares\arraysIrregulares\bin\Debug\netcoreapp3.1\arraysIrregulares.pdb
+C:\Users\fchav\source\repos\arraysIrregulares\arraysIrregulares\obj\Debug\netcoreapp3.1\arraysIrregulares.csprojAssemblyReference.cache
+C:\Users\fchav\source\repos\arraysIrregulares\arraysIrregulares\obj\Debug\netcoreapp3.1\arraysIrregulares.AssemblyInfoInputs.cache
+C:\Users\fchav\source\repos\arraysIrregulares\arraysIrregulares\obj\Debug\netcoreapp3.1\arraysIrregulares.AssemblyInfo.cs
+C:\Users\fchav\source\repos\arraysIrregulares\arraysIrregulares\obj\Debug\netcoreapp3.1\arraysIrregulares.csproj.CoreCompileInputs.cache
+C:\Users\fchav\source\repos\arraysIrregulares\arraysIrregulares\obj\Debug\netcoreapp3.1\arraysIrregulares.dll
+C:\Users\fchav\source\repos\arraysIrregulares\arraysIrregulares\obj\Debug\netcoreapp3.1\arraysIrregulares.pdb
+C:\Users\fchav\source\repos\arraysIrregulares\arraysIrregulares\obj\Debug\netcoreapp3.1\arraysIrregulares.genruntimeconfig.cache
